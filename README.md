@@ -1,6 +1,8 @@
 # Mussol - an OWLCMS fork
 Mussol is a fork of OWLCMS designed to work with the competition sheets provided by the Federació Catalana d'Halterofilia (Catalan Weightlifting Federation), whose format is different from the OWLCMS ones, with the expectation that the catalan WL clubs adopt this format and add some spices to this small sport. :)
 
+The name "Mussol" means "owl" in catalan, a wordplay on the english acronym for "Olympic WeightLifting".
+
 
 ## (Based on OWLCMS - Olympic Weightlifting Competition Management System | original description below:)
 This software is a complete rewrite of `owlcms` which has been used to manage Olympic Weightlifting competitions since 2009. This 4<sup>th</sup> generation of the software uses up-to-date technologies to run both on local machines (Windows, Linux, Mac) or in the cloud (Heroku, Kubernetes)
